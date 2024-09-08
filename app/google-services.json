@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168491355650",
+    "project_id": "kmms-4cace",
+    "storage_bucket": "kmms-4cace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168491355650:android:fa9d9f4975291d2f6a211b",
+        "android_client_info": {
+          "package_name": "com.ferhatozcelik.androidmvvmtemplate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAurlUcEGV5FMv32uTm0O2BDKAPtUlBOaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
